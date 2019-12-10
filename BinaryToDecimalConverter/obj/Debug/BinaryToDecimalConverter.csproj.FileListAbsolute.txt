@@ -1,0 +1,6 @@
+C:\Users\Gizmomo\source\repos\BinaryToDecimalConverter\BinaryToDecimalConverter\bin\Debug\BinaryToDecimalConverter.exe.config
+C:\Users\Gizmomo\source\repos\BinaryToDecimalConverter\BinaryToDecimalConverter\bin\Debug\BinaryToDecimalConverter.exe
+C:\Users\Gizmomo\source\repos\BinaryToDecimalConverter\BinaryToDecimalConverter\bin\Debug\BinaryToDecimalConverter.pdb
+C:\Users\Gizmomo\source\repos\BinaryToDecimalConverter\BinaryToDecimalConverter\obj\Debug\BinaryToDecimalConverter.csprojAssemblyReference.cache
+C:\Users\Gizmomo\source\repos\BinaryToDecimalConverter\BinaryToDecimalConverter\obj\Debug\BinaryToDecimalConverter.exe
+C:\Users\Gizmomo\source\repos\BinaryToDecimalConverter\BinaryToDecimalConverter\obj\Debug\BinaryToDecimalConverter.pdb
